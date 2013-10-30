@@ -1,0 +1,9 @@
+30 oktober 2013
+   released version 0.1.0 of Feather
+
+     Change log:
+        -Added: copyright notice to all source files
+        -Updated: moved source files to src folder
+        -Added: Windows x64 Debug and Release builds
+        -Fixed: changed license file to GPL v3
+
